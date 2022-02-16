@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @likhith4 (Likhith K)
 - 👀 I’m interested in ...Progressive Web Development |Python| 
-- 🌱 I’m currently studying  in grade 12 @JNV Dakshina Kannada 
+- 🌱 I’m currently studying  in grade 12 @ JNV M'lore
 -
 
 <!---
