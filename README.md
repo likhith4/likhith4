@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @likhith4 (Likhith K)
-- 👀 I’m interested in ...Progressive Web Development |Python| 
+- 👀 I’m interested in ...Progressive Web Development  
+-👐🏻 Open Source enthusiast
 
 
 <!---
