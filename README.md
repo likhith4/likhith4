@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @likhith4 (Likhith K)
-- 👀 I’m interested in Web Development  
+- Learning Web Dev
 -  Open Source enthusiast
 
 
