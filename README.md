@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey!%20This%20is%20Likhith%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20This%20is%20Likhith%20⚡&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
 </p>
 
 [![An image of @likhith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likhith)](https://holopin.io/@likhith)
