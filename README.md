@@ -7,7 +7,7 @@ Web Development🖥️ | Open Source ⚡ | Learning💡
 I've been learning to code from past 5-6 years and still exploring and learning and deep diving in tech,which never stops . I've found my passion in Web Developement mainly in Frontend Development , I also enjoy coding and building stuff witih Python and contributing to Open Source.
 
 * 🌍  I'm based in Mangaluru 🇮🇳
-* 🧠  I'm learning BootStrap 🥾
+* 🧠  I'm learning JavaScript⚡
 * 🤝  I'm open to collaborating on Intresting Projects
 * ⚡  I'm secretly an Artist --shh! don't tell anyone!
 
