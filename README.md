@@ -9,7 +9,7 @@ I've been learning to code from past 5-6 years and still exploring and learning 
 * 🌍  I'm based in Mangaluru 🇮🇳
 * 🧠  I'm learning WEB DEV⚡
 * 🤝  I'm open to collaborating on Intresting Projects
-* ⚡  I'm secretly an Artist --shh! don't tell anyone!
+
 
 ### Skills
 
